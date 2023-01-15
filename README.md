@@ -23,5 +23,7 @@ git clone https://github.com/John-Weeks-Dev/gmail-clone.git
 ## И для запуска бэкенда
 
 ``` cd backend ```
+###
 ``` npm i ```
+#
 ``` npm run watch ```
