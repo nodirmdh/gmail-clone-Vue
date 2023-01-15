@@ -17,6 +17,7 @@ git clone https://github.com/John-Weeks-Dev/gmail-clone.git
 ## Теперь запустите эти команды, чтобы запустить проект
 
 ``` npm i ```
+##
 ``` npm run serve ```
 
 ## И для запуска бэкенда
