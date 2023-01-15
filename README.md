@@ -1,24 +1,26 @@
-# gmail-clone
+# Gmail Clone
 
-## Project setup
-```
-npm install
-```
+(Vue 3, Tailwind CSS, Node JS, Firebase, Google Auth, Vue CLI )
 
-### Compiles and hot-reloads for development
-```
+## Клонировать репозиторий
+
+git clone https://github.com/John-Weeks-Dev/gmail-clone.git
+Теперь перейдите на https://console.cloud.google.com/
+
+1.Сгенерируйте КЛЮЧ API.
+Добавьте новый ключ API в скрипт внутри src/main.js.
+И бэкэнд/index.js
+
+2.Настройка Firebase (файрстор)
+Добавьте детали в src/firebase-init.js.
+
+##Теперь запустите эту команду, чтобы запустить проект
+
+npm i
 npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+##И для запуска бэкенда
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+cd backend
+npm i
+npm run watch
