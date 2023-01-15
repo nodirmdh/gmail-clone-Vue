@@ -14,10 +14,10 @@ git clone https://github.com/John-Weeks-Dev/gmail-clone.git
 ### 2.Настройка Firebase (файрстор)
 Добавьте детали в src/firebase-init.js.
 
-## Теперь запустите эту команду, чтобы запустить проект
+## Теперь запустите эти команды, чтобы запустить проект
 
-### npm i
-### npm run serve
+``` npm i ```
+``` npm run serve ```
 
 ## И для запуска бэкенда
 
