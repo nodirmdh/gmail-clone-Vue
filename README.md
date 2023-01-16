@@ -11,7 +11,7 @@ git clone https://github.com/John-Weeks-Dev/gmail-clone.git
 Добавьте новый ключ API в скрипт внутри src/main.js.
 И бэкэнд/index.js
 
-### 2.Настройка Firebase (файрстор)
+### 2.Настройка Firebase 
 Добавьте детали в src/firebase-init.js.
 
 ## Теперь запустите эти команды, чтобы запустить проект
