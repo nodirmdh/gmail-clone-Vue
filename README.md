@@ -1,11 +1,6 @@
 # Gmail Clone
 
-(Vue 3, Tailwind CSS, Node JS, Firebase, Google Auth, Vue CLI )
-
-## Клонировать репозиторий
-
-git clone https://github.com/John-Weeks-Dev/gmail-clone.git
-Теперь перейдите на https://console.cloud.google.com/
+Это собственный пета-проект, как Gmail почта. Мощная и масштабируемая платформа, с использованием Vue 3, Pinia, Tailwind CSS, Node JS, Firebase, Google Auth.
 
 ### 1.Сгенерируйте КЛЮЧ API.
 Добавьте новый ключ API в скрипт внутри src/main.js.
